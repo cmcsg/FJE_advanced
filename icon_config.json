@@ -1,0 +1,14 @@
+{
+    "circle": {
+        "container_icon": "○",
+        "leaf_icon": "●"
+    },
+    "poker-face": {
+        "container_icon": "♢",
+        "leaf_icon": "♤"
+    },
+    "star": {
+        "container_icon": "★",
+        "leaf_icon": "☆"
+    }
+}
